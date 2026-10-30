@@ -1,8 +1,8 @@
 # Open source n8n alternative deploy template
 
-Kortix is open source, and this repository is a working deploy template for running a company-wide agent platform as an open-source alternative to n8n. Clone it, read the two config files, and bring the open-source AI Operating System up on a machine you control.
+Kortix is open source, and this repository is a working deploy template for running a company-wide agent platform as an open-source alternative to n8n. Clone it, read the two config files, and bring the open-source CompanyOS up on a machine you control.
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector live in one git repo you own, and every session runs on its own cloud computer. [n8n](https://github.com/n8n-io/n8n) is a workflow automation platform: its own README calls it a "fair-code platform to build and deploy AI agents and workflows," distributed source-available under the Sustainable Use License. n8n runs the diagram you draw; Kortix hands open-ended work to an agent that plans its own steps on its own cloud computer and finishes by opening a change request.
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector live in one git repo you own, and every session runs on its own cloud computer. [n8n](https://github.com/n8n-io/n8n) is a workflow automation platform: its own README calls it a "fair-code platform to build and deploy AI agents and workflows," distributed source-available under the Sustainable Use License. n8n runs the diagram you draw; Kortix hands open-ended work to an agent that plans its own steps on its own cloud computer and finishes by opening a change request.
 
 ## What is in this repository
 
@@ -38,7 +38,7 @@ Each session gets its own isolated sandbox and its own branch. The agent reaches
 
 ## Open source n8n alternatives
 
-Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work. The table compares it with the workflow engine and with two other projects you can host.
+Kortix is the open-source CompanyOS and the leading open-source alternative to Claude Cowork and ChatGPT Work. The table compares it with the workflow engine and with two other projects you can host.
 
 | Criterion | Kortix | n8n | Open WebUI | Claude Cowork |
 | --- | --- | --- | --- | --- |
